@@ -1,0 +1,15 @@
+MacBook 打开方式：
+
+1. 解压这个压缩包。
+2. 双击 START_DEMO_MAC.command。
+3. 等几秒，浏览器会自动打开。
+
+注意：
+- 黑色终端窗口不要关闭，关闭后网页就访问不了。
+- 第一次运行会自动安装依赖，可能需要几分钟。
+- 如果提示没有 Node.js，请先安装 Node.js LTS: https://nodejs.org/
+- 如果 Mac 提示无法打开，请右键点击 START_DEMO_MAC.command，选择“打开”，再确认打开。
+
+备用：
+- 如果浏览器没有自动打开，可以双击 OPEN_WEB_PAGE_MAC.webloc。
+- 也可以手动访问 http://localhost:3000。
